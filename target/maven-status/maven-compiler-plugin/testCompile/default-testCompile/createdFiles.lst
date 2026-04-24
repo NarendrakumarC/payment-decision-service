@@ -1,5 +1,0 @@
-com/payment/decision/controller/PaymentDecisionControllerTest.class
-com/payment/decision/service/FraudCheckServiceTest.class
-com/payment/decision/service/CreditAvailabilityServiceTest.class
-com/payment/decision/service/PaymentDecisionServiceTest.class
-com/payment/decision/service/CurrencyConversionServiceTest.class
