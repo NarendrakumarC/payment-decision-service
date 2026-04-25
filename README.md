@@ -1,5 +1,5 @@
 # Payment-decision-service
-A microservice responsible for making the final payment approval or decline decision by aggregating multiple validation services.
+Design multi-threaded microservice responsible for making the final payment approval or decline decision by aggregating multiple validation services.
 Used in banking, card networks, fintech platforms
 
 Example responsibilities
